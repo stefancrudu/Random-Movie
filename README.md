@@ -6,6 +6,7 @@ Check out the app that can help you to solve a hard decision when you want to se
 With Random Movie you can find movies for your tonight sorted by your preferences, such as release date, genre, or IMDB rating. 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+ 
 ## Features: 
 - Dark Mode 
 - Filters by genre, release date, or IMDB rating
